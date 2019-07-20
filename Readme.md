@@ -7,6 +7,11 @@ If you don't find overhead of debugging such scenarios in their respective devic
 
 # Examples
 
+## Import library
+```javascript
+import DeviceIdentifier from 'react-device-identifier';
+```
+
 ## Run component only on Desktop
 ```javascript
 <DeviceIdentifier isDesktop={true}>

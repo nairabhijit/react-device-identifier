@@ -1,6 +1,6 @@
 {
   "name": "react-device-identifier",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Load different components for Mobile and Desktop",
   "main": "dist/index.js",
   "scripts": {
