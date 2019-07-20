@@ -1,3 +1,5 @@
+A lightweight library for loading components on the basis of device detection.
+
 # Purpose of creating this library
 Sometimes we often create components different for Mobile, Tablets or Desktop and want them to get called respectively as per the device detection. Well the purpose of creating this library is to ease the debugging on development environment like when we debug our React application on Chrome browser with *'Toggle device toolbar'* and change the device resolution, the respective components should get called.
 
