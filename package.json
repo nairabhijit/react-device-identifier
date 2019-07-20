@@ -1,0 +1,30 @@
+{
+  "name": "react-device-identifier",
+  "version": "0.1.0",
+  "description": "Load different components for Mobile and Desktop",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "babel ./src --out-dir ./dist -s inline"
+  },
+  "keywords": [
+    "ReactJs",
+    "Device",
+    "Identifier"
+  ],
+  "author": "Abhijit Nair <nairabhijit6@gmail.com> (https://github.com/nairabhijit)",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.8.6"
+  },
+  "peerDependencies": {
+      "react": "^16.8.6"
+  },
+  "files": [
+    "dist/*"
+  ]
+}
