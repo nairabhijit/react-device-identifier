@@ -9,9 +9,15 @@
   },
   "keywords": [
     "ReactJs",
-    "Device",
-    "Identifier"
+    "Device Identifier",
+    "Mobile",
+    "Tablets",
+    "Desktop"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nairabhijit/react-device-identifier"
+  },
   "author": "Abhijit Nair <nairabhijit6@gmail.com> (https://github.com/nairabhijit)",
   "license": "ISC",
   "devDependencies": {
